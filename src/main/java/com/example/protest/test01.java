@@ -5,4 +5,5 @@ public class test01 {
     int x;
     int y;
     int t02;
+    int t01;
 }

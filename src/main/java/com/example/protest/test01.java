@@ -16,4 +16,6 @@ public class test01 {
     int p05;
     int p06;
     int p03;
+    int p09;
+    
 }

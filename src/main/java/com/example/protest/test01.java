@@ -6,9 +6,6 @@ public class test01 {
     int y;
     int t02;
     int t01;
-<<<<<<< Updated upstream
     int t03;
-=======
     int t05;
->>>>>>> Stashed changes
 }

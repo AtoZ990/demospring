@@ -12,7 +12,10 @@ public class test01 {
     int t07;
     int r01;
     int p01;
+    int p04;
+    int p05;
+    int p06;
     int p03;
     int p09;
-    
+    int p07;
 }

@@ -1,5 +1,5 @@
 package com.example.protest;
 
 public class test01 {
-    int rr;
+    int rrr;
 }
